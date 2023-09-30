@@ -1,0 +1,15 @@
+{
+	"name": "Search",
+	"description": "Search",
+
+	"author": "avaniashev",
+	"authorEmail": "s@is2b.ru",
+	"authorUrl": "http://is2b.ru",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}

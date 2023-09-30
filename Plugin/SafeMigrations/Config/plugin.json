@@ -1,0 +1,13 @@
+{
+  "name": "SafeMigrations",
+  "description": "Safe migrations",
+  "author": "Safe migrations",
+  "authorEmail": "is2b.ru",
+  "authorUrl": "http://is2b.ru",
+  "dependencies": {
+    "plugins": [
+      "acl",
+      "extensions"
+    ]
+  }
+}

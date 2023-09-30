@@ -1,0 +1,15 @@
+{
+	"name": "Bitrix",
+	"description": "theme for Bitrix",
+	"screenshot": "screenshot.png",
+	"author": "avaniashev",
+	"authorEmail": "",
+	"authorUrl": "",
+	"menus": [
+		"main",
+		"footer"
+	],
+	"regions": [
+		"right"
+	]
+}
