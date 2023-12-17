@@ -1,0 +1,14 @@
+{
+  "name": "DocumentGenerator",
+  "description": "DocumentGenerator",
+  "author": "Alexander Vaniashev",
+  "authorEmail": "avaniashev@gmail.com",
+  "authorUrl": "https://bpmtop.kz",
+  "aco_required" : true,
+  "dependencies": {
+    "plugins": [
+      "acl",
+      "extensions"
+    ]
+  }
+}
