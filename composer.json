@@ -1,6 +1,9 @@
 {
     "require": {
         "phpunit/phpunit": "4.*",
-        "phpoffice/phpspreadsheet": "*"
+        "phpoffice/phpspreadsheet": "*",
+        "psr/http-client": "1.0.3",
+        "react/http": "^1.10.0",
+        "react/socket": "1.15.0"
     }
 }

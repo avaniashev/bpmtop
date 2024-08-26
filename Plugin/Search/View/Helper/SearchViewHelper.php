@@ -94,6 +94,9 @@ class SearchViewHelper extends AppHelper {
 				return $helper->render($field, $fieldOptions);
 			}
 		}
+        if ($fieldOptions['type'] && $fieldOptions['type'] == 'value'){
+            unset($fieldOptions['type']);
+        }
 		return $this->render($field, $fieldOptions);
 	}
 
